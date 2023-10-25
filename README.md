@@ -1,4 +1,4 @@
-# Tic Tac Toe With React
+# Tic Tac Toe
 
 <img src="cover.png" width="100%" >
 
