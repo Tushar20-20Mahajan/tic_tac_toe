@@ -2,12 +2,13 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #242730;
+  background-color: #1d3557;
   color: white;
 }
 
 h1 {
   text-align: center;
+  /* color: #e76f51; */
 }
 
 .board {
@@ -27,11 +28,11 @@ h1 {
 }
 
 .right-border {
-  border-right: 0.2em solid #0074a6;
+  border-right: 0.2em solid #f1faee;
 }
 
 .bottom-border {
-  border-bottom: 0.2em solid #0074a6;
+  border-bottom: 0.2em solid #f1faee;
 }
 
 .x-hover:hover::after {
@@ -46,7 +47,7 @@ h1 {
 
 .strike {
   position: absolute;
-  background-color: darkorange;
+  background-color: #e63946;
 }
 
 .strike-row-1 {
@@ -96,7 +97,7 @@ h1 {
 
 .game-over {
   text-align: center;
-  border: #5468ff 8px;
+  border: #e63946 8px;
   border-style: dotted;
   padding: 10px;
   margin-top: 50px;
@@ -106,8 +107,8 @@ h1 {
 .reset-button {
   margin-top: 50px;
   padding: 20px;
-  background-color: #0074a6;
-  color: white;
+  background-color: #f1faee;
+  color: #e63946;
   width: 100%;
   font-size: 1.5em;
 }
