@@ -5,7 +5,7 @@
 
 ### Try the game here:
 
-https://codingwith-adam.github.io/tic-tac-toe-react/
+https://tushar20-20mahajan.github.io/tic_tac_toe/
 
 
 
